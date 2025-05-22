@@ -6,3 +6,4 @@ I store those pixels in the BRAM of vivado (Single port ROM) and then using thos
 All teh code is written in verilog using vivado design suite (version 2023.2) 
 i chose the Block Ram IP in vivado with memory type single port ROM,
 bitwidth 9 and Deppth of 65536.
+A test bench to run the design to get the simulations are there in tb.v
